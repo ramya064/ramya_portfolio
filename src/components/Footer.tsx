@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { Heart } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -13,9 +12,7 @@ export default function Footer() {
           className="text-center"
         >
           <p className="text-slate-400 flex items-center justify-center gap-2">
-            Made with{' '}
-            <Heart className="w-4 h-4 text-red-500 fill-current animate-pulse" />{' '}
-            by Maddala Ramya
+           Designed and developed by Maddala Ramya
           </p>
           <p className="text-sm text-slate-500 mt-2">
             {new Date().getFullYear()} All rights reserved.

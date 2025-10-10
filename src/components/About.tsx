@@ -56,10 +56,11 @@ export default function About() {
               projects that combine design, animation, and polish.
             </p>
             <p className="text-lg text-slate-300 leading-relaxed">
-              Currently pursuing B.Tech in Computer Science & Engineering with
-              specialization in AI & ML, I strive to create web applications
-              that are not only functional but also visually appealing and
-              user-friendly.
+             I have completed my B.Tech in Computer Science & Engineering. 
+I am passionate about building web applications using React that are 
+both functional and visually engaging, with a focus on creating 
+seamless and user-friendly experiences.
+
             </p>
           </motion.div>
 
